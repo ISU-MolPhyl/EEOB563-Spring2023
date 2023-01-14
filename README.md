@@ -1,4 +1,4 @@
-# EEOB563 Spring 2021 Course Repository
+# EEOB563 Spring 2023 Course Repository
 
 This repository will be used throughout the semester to host the files and documents used in the course. 
 It is expected that you will pull all new changes to this directory at the beginning of each class so that 
