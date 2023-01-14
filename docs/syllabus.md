@@ -1,4 +1,4 @@
-### Spring 2021
+### Spring 2023
 ## EEOB 563: Molecular Phylogenetics (3 credits)
 ### Course Syllabus
 
@@ -12,16 +12,17 @@ Slack: [https://eeob563.slack.com/](https://eeob563.slack.com/)
 Office hours: by appointment  
 
 #### Course Information:  
-Class meets on Tu/Th: 9:00-10:50 AM, Online.   
+Class meets on Tu/Th: 9:00-10:50 AM, 203 Bessey.   
 Class schedule and other class materials are available online at [https://isu-molphyl.github.io/EEOB563/](https://isu-molphyl.github.io/EEOB563/).
 
 #### Course Description:  
 This course is designed to introduce you to the theory and practice of phylogenetic analysis.  The course emphasizes a hands-on approach to molecular phylogenetics and combines lecture presentations with computer exercises and discussion of original scientific literature.
 
 #### Prerequisites:  
-Knowledge of basic genetics (e.g., BIOL 313) and basic evolutionary theory (e.g., BIOL 315) are required for understanding the material of this course.  The following computer skills will come in very handy:
+Knowledge of basic genetics (e.g., BIOL 313) and basic evolutionary theory (e.g., BIOL 315) are required for understanding the material of this course.  
+The following computer skills will come in very handy (and will be introduced in the course):
 
-- Unix: many program we'll use in the course require operational knowledge of unix.
+- Unix: many program we'll use in the labs require operational knowledge of unix.
 - Git and GitHub: we will be using Git and github for version control and file sharing
 
 #### Learning Objectives:  
@@ -33,10 +34,14 @@ The four main learning objectives of the course are to learn
 - when and how to use phylogenetic analysis to elucidate broader biological questions.  
 
 #### Textbook:  
-Elizabeth S. Allman, John A. Rhodes. *Lecture Notes: The Mathematics of Phylogenetics*.  2016 [(available online)](https://jarhodesuaf.github.io/PhyloBook.pdf). The book provides an alternative (more mathematical) perspective on several topics in the class. However, I will not follow this book directly and I will list readings to supplement particular topics.  I will also provide occasional handouts as references.
+Elizabeth S. Allman, John A. Rhodes. *Lecture Notes: The Mathematics of Phylogenetics*.  2016 [(available online)](https://jarhodesuaf.github.io/PhyloBook.pdf). 
+The book provides an alternative (more mathematical) perspective on several topics in the class. 
+However, I will not follow this book directly and I will list readings to supplement particular topics.  
+I will also provide occasional handouts as references.
 
 #### Attendance policy:  
-Attendance of lectures is expected, but not required. However, sporadic attendance will result in fewer points for participation in discussion.
+Attendance of lectures is expected, but not required. 
+However, sporadic attendance will result in fewer points for participation in discussion.
 
 __Lab attendance is required. Missed labs need to be completed and a summary report submitted to the instructor.__
 
