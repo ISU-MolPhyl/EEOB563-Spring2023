@@ -23,28 +23,28 @@ Create an empty GitHub repository and link your local repository to it. Push the
 Part 3. Unix and mafft 
 ---  
 4) I shared with you several sequences sent to me by Jianzhi "George" Zhang, the author of the "The hearing gene Prestin unites echolocating bats and whales" paper.
-Use Unix commands to explore the file. 
-**a. How many taxa are included in the dataset?**
-**b. Are the sequenced aligned?**
-**c. What is the length of the sequences?**
+Use Unix commands to explore the file.  
+**a. How many taxa are included in the dataset?**  
+**b. Are the sequenced aligned?**  
+**c. What is the length of the sequences?**  
 
 1) Use `mafft` on the HPC-class (issue `module load mafft` first!) or [install it](https://mafft.cbrc.jp/alignment/software/) on your computer. 
 There are online servers that can run MAFFT, but do not use them or use them only after you tried all other options. 
 One of our goals in this course is to become comfortable with the UNIX/command line interface.
-Use automatic option in mafft (`--auto`) to align the sequences and save the output in the clustal format.
-**a. What search strategy did mafft use for the alignment?**
+Use automatic option in mafft (`--auto`) to align the sequences and save the output in the clustal format.  
+**a. What search strategy did mafft use for the alignment?**  
 In addition to the alignment itself mafft program can output the guide tree it uses to build it (see mafft [website](http://mafft.cbrc.jp/alignment/software/tips0.html) for details).  
-You can view this tree with [FigTree](http://tree.bio.ed.ac.uk/software/figtree) or [online](https://itol.embl.de/). 
-**b. What does this tree represent? Does it correspond to the species phylogeny you expected? Explain!**
+You can view this tree with [FigTree](http://tree.bio.ed.ac.uk/software/figtree) or [online](https://itol.embl.de/).  
+**b. What does this tree represent? Does it correspond to the species phylogeny you expected? Explain!**  
 
 6) Alignment of aa sequences (extra point).
 Use Google to find out how translate DNA sequences into proteins.
 Translate DNA sequences we used in Q4 and 5 to amino acids and align them with mafft.
 Output a guide tree for the aa alignment.
-**a. What program/website did you use?**
-**b. Are the guide trees for DNA and aa alignments identical? What are the differences**
+**a. What program/website did you use?**  
+**b. Are the guide trees for DNA and aa alignments identical? What are the differences**  
 
-**Include your tree(s) (no alignment, please!) and your answers to the questions above in a single document and submit it on Canvas.**
+**Include your tree(s) (no alignment, please!) and your answers to the questions above in a single document and submit it on Canvas.**  
 
 ---
 **GOOD LUCK!**
